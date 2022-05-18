@@ -20,9 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="zd1.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
     <ClInclude Include="zd2.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
