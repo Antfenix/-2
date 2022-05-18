@@ -19,9 +19,4 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="zd11.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
-  </ItemGroup>
 </Project>
